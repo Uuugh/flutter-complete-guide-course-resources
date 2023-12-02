@@ -1,15 +1,19 @@
 import 'package:flutter/material.dart';
 
 class StyledText extends StatelessWidget {
-  const StyledText({super.key});
+  const StyledText(this.text, this.fontColor, {super.key});
+
+  final String text;
+  final Color fontColor;
+
   @override
   Widget build(BuildContext context) {
-    return const Text(
+    return Text(
       style: TextStyle(
         fontSize: 25,
-        color: Colors.purple,
+        color: fontColor,
       ),
-      "I need a longer sentence!",
+      text,
     );
   }
 }
