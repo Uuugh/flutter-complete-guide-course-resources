@@ -33,9 +33,9 @@
     },
     {
       "name": "cross_file",
-      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/cross_file-0.3.3+7",
+      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/cross_file-0.3.3+8",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "crypto",
@@ -153,9 +153,9 @@
     },
     {
       "name": "google_maps_flutter_ios",
-      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/google_maps_flutter_ios-2.3.2",
+      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/google_maps_flutter_ios-2.3.3",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "google_maps_flutter_platform_interface",
@@ -248,6 +248,18 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "leak_tracker",
+      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-9.0.16",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-1.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    },
+    {
       "name": "lints",
       "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/lints-2.1.1",
       "packageUri": "lib/",
@@ -279,13 +291,13 @@
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.5.0",
+      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.8.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.10.0",
+      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.11.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -297,9 +309,9 @@
     },
     {
       "name": "path",
-      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
+      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "path_provider",
@@ -452,14 +464,20 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "vm_service",
+      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-13.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "web",
-      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.3.0",
+      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.4.0",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "win32",
-      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.1.0",
+      "rootUri": "file:///C:/Users/rfrie/AppData/Local/Pub/Cache/hosted/pub.dev/win32-5.1.1",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -476,7 +494,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-11-30T15:12:29.600141Z",
+  "generated": "2023-12-12T21:27:29.424345Z",
   "generator": "pub",
-  "generatorVersion": "3.2.1"
+  "generatorVersion": "3.3.0-215.0.dev"
 }
