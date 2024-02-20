@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class StartScreen extends StatelessWidget {
-  const StartScreen(this.startQuiz, {Key? key}) : super(key: key);
+  const StartScreen(this.startQuiz, {super.key});
   final void Function() startQuiz;
   @override
   Widget build(BuildContext context) {
